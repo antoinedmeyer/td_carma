@@ -1,3 +1,3 @@
-# td_carma
+# TD-CARMA: A method for cosmological time delay estimation with Continuous Auto-Regressive Moving Average processes
 
 TD-CARMA: A method for cosmological time delay estimation with Continuous Auto-Regressive Moving Average processes 
